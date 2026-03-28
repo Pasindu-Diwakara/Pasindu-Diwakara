@@ -1,7 +1,6 @@
 <div align="center">
 
-# ⚡ PASINDU DIWAKARA
-**Crafting seamless digital experiences through UX Design & Code.**
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=36&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=PASINDU+DIWAKARA" alt="PASINDU DIWAKARA" />
 
 <p align="center">
   <i>BICT (Hons) Undergraduate @ Rajarata University of Sri Lanka | HCI Enthusiast</i>
@@ -15,22 +14,24 @@
 
 <br>
 
-### 👨‍💻 About Me
+### ABOUT
 I blend a background in visual design with full-stack development to create intuitive, human-centric applications. My journey bridges the gap between aesthetics and functionality, with a heavy focus on how users interact with technology. 
 
-- 🔭 **Focus:** Designing user-centric interfaces and exploring Human-Computer Interaction (HCI).
-- 🌱 **Currently Exploring:** AI-driven solutions, prompt engineering, and building dynamic web experiences.
-- 🎓 **Education:** Pursuing a BICT (Hons) degree at Rajarata University of Sri Lanka.
-- 🤝 **Community:** Active member of the IEEE Student Branch.
+* **Focus:** Designing user-centric interfaces and exploring Human-Computer Interaction (HCI).
+* **Currently Exploring:** AI-driven solutions, prompt engineering, and building dynamic web experiences.
+* **Education:** Pursuing a BICT (Hons) degree at Rajarata University of Sri Lanka.
+* **Community:** Active member of the IEEE Student Branch.
 
 <br>
 
-### 🛠️ Tech Stack & Tools
+### TECH & TOOLS
 
 **Design & Innovation**
 <br>
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
+
+<br>
 
 **Frontend & Backend**
 <br>
@@ -41,11 +42,11 @@ I blend a background in visual design with full-stack development to create intu
 
 <br>
 
-### 📊 GitHub Activity
+### METRICS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pasindu-Diwakara&show_icons=true&bg_color=000000&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&hide_border=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasindu-Diwakara&layout=compact&bg_color=000000&title_color=ffffff&text_color=a3a3a3&hide_border=true" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pasindu-Diwakara&show_icons=true&theme=transparent&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasindu-Diwakara&layout=compact&theme=transparent&title_color=ffffff&text_color=a3a3a3&hide_border=true" width="48%" alt="Top Languages" />
 </div>
 
 <br>
@@ -53,7 +54,6 @@ I blend a background in visual design with full-stack development to create intu
 ---
 
 <div align="center">
-  <h3>Let's Connect</h3>
   <a href="https://www.linkedin.com/in/pasindu-diwakara-008260290">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>

@@ -1,53 +1,51 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=PASINDU_DIWAKARA;SYSTEM_INITIALIZED;UX_//_HCI_//_AI" alt="PASINDU DIWAKARA" />
-
-<br>
-
-<code>[ UI/UX_ENGINEER & FULL_STACK_DEVELOPER ]</code>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=42&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=PASINDU+DIWAKARA;UX+DESIGNER+|+FULL-STACK+DEV;SHAPING+DIGITAL+EXPERIENCES" alt="PASINDU DIWAKARA" />
 
 <br><br>
+
+<h3 align="center">Innovating at the intersection of Human-Computer Interaction & AI</h3>
+
+<br>
+
 </div>
 
-### 01. ARCHITECTURE & VISION
-Designing the digital frontier. I engineer human-centric interfaces and robust systems, merging high-end visual aesthetics with seamless code. My primary directive is understanding how users interact, adapt, and experience the digital environment.
-
-* **Current Vector:** Advanced Human-Computer Interaction (HCI) and AI-driven prompt engineering.
-* **Background:** BICT (Hons) at Rajarata University of Sri Lanka | Graphic Designer since 2020.
-* **Alias / Design Brand:** NexDiwz.
+---
 
 <br>
 
-### 02. ACTIVE DIRECTIVES
-* **SerenDrive:** Architecting and developing a full-scale digital platform for the tourism sector.
-* **Space Shooter:** Engineered a highly responsive 2D Java-based game focusing on core rendering mechanics.
-* **Portfolio:** Designing and coding a custom web environment to showcase digital assets and UI experiments.
+### ✦ THE VISION
+I specialize in bridging the gap between high-end visual design and robust full-stack development. With a strong foundation in UX/UI and Human-Computer Interaction, my focus is on engineering digital solutions that are as intuitive as they are powerful.
+
+> **Currently Building:** [SerenDrive] - A complete digital platform for the tourism sector.
+> **Exploring:** AI-driven prompt engineering and next-generation web experiences.
+> **Alias:** NexDiwz | **Education:** BICT (Hons), Rajarata University of Sri Lanka.
 
 <br>
 
-### 03. ARSENAL
+### ✦ TECH ARSENAL
 
-> **CORE_LANGUAGES**
+<div align="center">
+
+**[ DESIGN & PROTOTYPING ]**
 <br>
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white)
 
-> **FRAMEWORKS_&_RUNTIMES**
-<br>
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<br><br>
 
-> **DESIGN_&_HARDWARE**
+**[ ENGINEERING ]**
 <br>
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white)
+
+</div>
 
 <br>
 
-### 04. TELEMETRY
+### ✦ SYSTEM METRICS
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pasindu-Diwakara&show_icons=true&theme=transparent&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&hide_border=true&bg_color=00000000" width="48%" alt="GitHub Stats" />
@@ -58,13 +56,14 @@ Designing the digital frontier. I engineer human-centric interfaces and robust s
 
 ---
 
+<br>
+
 <div align="center">
-  <p style="color: #a3a3a3; font-size: 12px; letter-spacing: 2px;">ESTABLISH_CONNECTION</p>
   <a href="https://www.linkedin.com/in/pasindu-diwakara-008260290">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:serendriveofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Secure_Comms-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/CONTACT_ME-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>

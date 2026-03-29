@@ -22,8 +22,6 @@
 
 Currently expanding into **Prompt Engineering and AI-driven solutions** — exploring how intelligent systems can be shaped through intentional design.
 
-Based in Kuliyapitiya, Sri Lanka &nbsp;·&nbsp; Also known as **Ghost**
-
 <br clear="right"/>
 
 ---

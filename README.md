@@ -67,7 +67,7 @@ Expanding into prompt engineering and AI-driven solutions, finding the overlap b
 **Contact**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pasindudiwakara)
-[![Gmail](https://img.shields.io/badge/Gmail-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:pasindudiwakara635@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:pasindudiwakara@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/PasinduDiwakara)
 
 ---

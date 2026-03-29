@@ -1,10 +1,8 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Pasindu%20Diwakara&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=UX%20Designer%20%7C%20HCI%20Specialist%20%7C%20AI%20Explorer&descSize=18&descAlignY=58&animation=fadeIn" />
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Aspiring+UX+Designer+%26+HCI+Specialist;Exploring+Prompt+Engineering+%26+AI;BICT+Undergraduate+%40+Rajarata+University;Building+at+the+intersection+of+design+%26+tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Aspiring+UX+Designer+%26+HCI+Specialist;Exploring+Prompt+Engineering+%26+AI;BICT+Undergraduate+%40+Rajarata+University;Building+at+the+intersection+of+design+%26+tech)](https://git.io/typing-svg)
 
 <br/>
 
@@ -16,38 +14,28 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-### 👋 Hey there! I'm Pasindu
+### Hey, I'm Pasindu
 
-🎯 **Focused on:** UX Design & Human-Computer Interaction  
-🤖 **Exploring:** Prompt Engineering & AI-driven solutions  
-🧩 **Passion:** Combining creativity with innovation  
-🏛️ **University:** Rajarata University of Sri Lanka — BICT (Hons)  
-📍 **Location:** Kuliyapitiya, Sri Lanka 🇱🇰  
+**UX Design & Human-Computer Interaction** — that's where I spend most of my focus. I'm an undergraduate at Rajarata University of Sri Lanka pursuing a BICT (Hons) degree, working at the intersection of design thinking and emerging technology.
+
+Currently expanding into **Prompt Engineering and AI-driven solutions** — exploring how intelligent systems can be shaped through intentional design.
+
+Based in Kuliyapitiya, Sri Lanka &nbsp;·&nbsp; Also known as **Ghost**
 
 <br clear="right"/>
 
 ---
 
-<div align="center">
-
-### 🐍 Snake eating through **DIWAKARA**
-
-![DIWAKARA Snake](https://raw.githubusercontent.com/PasinduDiwakara/PasinduDiwakara/output/diwakara-snake.svg)
-
-</div>
-
----
-
-### 🛠️ Skills & Tools
+### Skills & Tools
 
 <div align="center">
 
 **Design & UX**
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
 **Development**
@@ -62,25 +50,25 @@
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 </div>
 
 ---
 
-### 🤝 Let's Connect
+### Connect
 
 <div align="center">
 
 <a href="https://linkedin.com/in/pasindudiwakara">
-  <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br/><br/>
 
-*"Design is not just what it looks like and feels like. Design is how it works."*  
-— Steve Jobs
+*"Design is not just what it looks like and feels like. Design is how it works."*
+<br/>— Steve Jobs
 
 <br/>
 

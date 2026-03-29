@@ -1,20 +1,18 @@
 <div align="center">
 
-<br/>
-
-```
-P A S I N D U   D I W A K A R A
-```
-
-<sub>UX Designer &nbsp;·&nbsp; HCI Specialist &nbsp;·&nbsp; Prompt Engineer</sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Pasindu%20Diwakara&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=UX%20Designer%20%7C%20HCI%20Specialist%20%7C%20AI%20Explorer&descSize=18&descAlignY=58&animation=fadeIn" />
 
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=13&pause=2000&color=888888&center=true&vCenter=true&width=500&lines=Designing+at+the+intersection+of+humans+%26+machines.;BICT+%28Hons%29+%E2%80%94+Rajarata+University+of+Sri+Lanka.;Exploring+AI-driven+design+systems.;Kuliyapitiya%2C+Sri+Lanka.)](https://git.io/typing-svg)
 
-</div>
-
 <br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pasindu_Diwakara-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pasindudiwakara)
+[![Profile Views](https://komarev.com/ghpvc/?username=PasinduDiwakara&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/PasinduDiwakara)
+[![IEEE](https://img.shields.io/badge/IEEE_Student_Branch-Rajarata_University-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://www.ieee.org/)
+
+</div>
 
 ---
 
@@ -70,13 +68,15 @@ Expanding into prompt engineering and AI-driven solutions, finding the overlap b
 
 <div align="center">
 
-<sub>
-IEEE Student Branch, Rajarata University &nbsp;·&nbsp; Kuliyapitiya, Sri Lanka &nbsp;·&nbsp;
-<a href="https://linkedin.com/in/pasindudiwakara">LinkedIn</a>
-</sub>
+<sub>IEEE Student Branch, Rajarata University &nbsp;·&nbsp; Kuliyapitiya, Sri Lanka &nbsp;·&nbsp; <a href="https://linkedin.com/in/pasindudiwakara">LinkedIn</a></sub>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=PasinduDiwakara&color=888888&style=flat-square&label=views)
+*"Design is not just what it looks like and feels like. Design is how it works."*
+<br/><sub>— Steve Jobs</sub>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
 
 </div>

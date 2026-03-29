@@ -25,7 +25,6 @@
 🧩 **Passion:** Combining creativity with innovation  
 🏛️ **University:** Rajarata University of Sri Lanka — BICT (Hons)  
 📍 **Location:** Kuliyapitiya, Sri Lanka 🇱🇰  
-⚡ **Fun fact:** Call me **Ghost**
 
 <br clear="right"/>
 

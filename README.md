@@ -8,9 +8,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pasindu_Diwakara-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pasindudiwakara)
 [![Profile Views](https://komarev.com/ghpvc/?username=PasinduDiwakara&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/PasinduDiwakara)
-[![IEEE](https://img.shields.io/badge/IEEE_Student_Branch-Rajarata_University-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://www.ieee.org/)
 
 </div>
 
@@ -66,11 +64,15 @@ Expanding into prompt engineering and AI-driven solutions, finding the overlap b
 
 ---
 
+**Contact**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pasindudiwakara)
+[![Gmail](https://img.shields.io/badge/Gmail-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:pasindudiwakara635@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/PasinduDiwakara)
+
+---
+
 <div align="center">
-
-<sub>IEEE Student Branch, Rajarata University &nbsp;·&nbsp; Kuliyapitiya, Sri Lanka &nbsp;·&nbsp; <a href="https://linkedin.com/in/pasindudiwakara">LinkedIn</a></sub>
-
-<br/><br/>
 
 *"Design is not just what it looks like and feels like. Design is how it works."*
 <br/><sub>— Steve Jobs</sub>
